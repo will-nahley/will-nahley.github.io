@@ -1,3 +1,6 @@
 ---
 title: "Home Page"
+about:
+  template: jolla
+  image: images/cropped_headshot.JPG
 ---
