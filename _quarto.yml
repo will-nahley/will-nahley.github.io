@@ -16,6 +16,6 @@ website:
 format:
   html:
     theme: united
-    # mainfont: "'Roboto', sans-serif"
+    mainfont: "'Open Sans', sans-serif"
     # css: my-style.css
     # toc: true
