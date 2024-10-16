@@ -1,3 +1,7 @@
 ---
 title: "About"
 ---
+
+This is a personal website I am making for [STAT 37815: Practical R Programming with Extensions](https://stat.uchicago.edu/academics/course-info/2024-2025-courses/autumn-2024-stat-37815-1/) with [ Dr. McShane](https://ryanmcshane.com).
+
+I plan on publishing my resume, programming projects, and other interests on this website.
