@@ -13,11 +13,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/will-nahley/
+
 ---
 
 ## Background
 
-I'm a second-year Master's student at UChicago studying Computational and Applied Mathematics. Prior to UChicago, I attended Southern Methodist University from 2019-2023, where I received a BBA in Finance and a minor in Computer Science.
+I'm a second-year Master's student at UChicago studying Computational and Applied Mathematics. Prior to UChicago, I attended Southern Methodist University from 2019-2023, where I received a BBA in Finance and a minor in Computer Science. You can view my resume [here](images/Nahley_resume_10_1.pdf).
 
 ## Research
 
