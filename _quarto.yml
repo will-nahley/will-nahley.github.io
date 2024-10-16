@@ -5,6 +5,9 @@ project:
 website:
   title: "My Personal Website for STAT 37815"
   navbar:
+    tools:
+      - icon: github
+        href: https://github.com/will-nahley/will-nahley.github.io
     left:
       - href: index.qmd
         text: Home
@@ -13,6 +16,6 @@ website:
 format:
   html:
     theme: united
-    #mainfont: "'Roboto', sans-serif"
+    # mainfont: "'Roboto', sans-serif"
     # css: my-style.css
     # toc: true
