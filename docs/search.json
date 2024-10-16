@@ -5,5 +5,26 @@
     "title": "About",
     "section": "",
     "text": "This is a personal website I am making for STAT 37815: Practical R Programming with Extensions with Dr. McShane.\nI plan on publishing my resume, programming projects, and other interests on this website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "I’m a second-year Master’s student at UChicago studying Computational and Applied Mathematics. Prior to UChicago, I attended Southern Methodist University from 2019-2023, where I received a BBA in Finance and a minor in Computer Science."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Home Page",
+    "section": "",
+    "text": "I’m a second-year Master’s student at UChicago studying Computational and Applied Mathematics. Prior to UChicago, I attended Southern Methodist University from 2019-2023, where I received a BBA in Finance and a minor in Computer Science."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Home Page",
+    "section": "Research",
+    "text": "Research\nI’m currently studying long-distance wave propagation through turbulent media with Prof. Anjali Nair."
   }
 ]

@@ -3,4 +3,22 @@ title: "Home Page"
 about:
   template: jolla
   image: images/cropped_headshot.JPG
+  links: 
+    - icon: buildings
+      text: UChicago Page
+      href: https://cam.uchicago.edu/people/profile/william-nahley/
+    - icon: github
+      text: GitHub
+      href: https://github.com/will-nahley
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/will-nahley/
 ---
+
+## Background
+
+I'm a second-year Master's student at UChicago studying Computational and Applied Mathematics. Prior to UChicago, I attended Southern Methodist University from 2019-2023, where I received a BBA in Finance and a minor in Computer Science.
+
+## Research
+
+I'm currently studying long-distance wave propagation through turbulent media with [Prof. Anjali Nair](https://stat.uchicago.edu/people/profile/anjali-nair/).
