@@ -1,9 +1,0 @@
----
-title: "Resume"
-resources: 
-  - "images/Nahley_resume_10_1.pdf"
----
-
-Attached below is my current resume:
-
-![Resume](images/Nahley_resume_10_1.pdf){fig-align="center" width="90%" style="min-height:77vh;"}\
