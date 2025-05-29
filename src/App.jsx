@@ -1,9 +1,10 @@
 import { useState } from "react";
+import myPhoto from "../assets/Profile.jpg";
 
 function App() {
   return (
     <>
-      <img className="photo" src="../assets/Profile.jpg" />
+      <img className="photo" src={myPhoto} />
 
       <section id="about-me">
         <h1 className="section-title">About Me</h1>
