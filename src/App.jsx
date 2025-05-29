@@ -36,7 +36,6 @@ function App() {
         <hr></hr>
         <h1 className="section-title">Contact Me</h1>
         <p>Email: wnahley [at] uchicago [dot] edu </p> <br />
-        <a>Instagram</a>
       </section>
     </>
   );

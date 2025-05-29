@@ -28,6 +28,34 @@
     width: 3.5vw
 }
 
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start; /* or center */
+  }
+
+  .navbar-left {
+    width: 100%;
+    font-size: 4vh;
+    margin-bottom: 1rem;
+  }
+
+  .navbar-right {
+    width: 100%;
+    justify-content: space-around;
+    font-size: 2vh;
+  }
+
+  .navbar-right a {
+    padding: 8px;
+  }
+  
+  .icon {
+    width: 48px;
+    height: 48px;
+  }
+}
+
 a:link,
 a:visited {
   color: black;
@@ -43,8 +71,8 @@ a:active {
 .photo {
     display: block;
     border-style: solid;
-    border-width: 0.25rem;
-    border-color: rgb(191, 190, 189);
+    border-width: 2px;
+    border-color: "black";
     margin: 0 auto;
     width: 15vw;
     border-radius: 50%;
