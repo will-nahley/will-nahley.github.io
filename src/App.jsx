@@ -1,35 +1,44 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+      <img className="photo" src="../assets/Profile.jpg" />
+
+      <section id="about-me">
+        <h1 className="section-title">About Me</h1>
+        <h3 className="subsection-title">Currently</h3>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          I'm currently looking for a new graduate role as a Data Analyst or
+          Software Engineer.
         </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+        <h3 className="subsection-title">Interests</h3>
+        <p>
+          I'm broadly interested in data science, mathematical finance, and
+          frontend development.
+        </p>
+        <h3 className="subsection-title">Background and Eductation</h3>
+        <p>
+          I graduated from UChicago with an MS in Computational and Applied
+          Mathematics in March of 2025. I graduated from Southern Methodist
+          University in May 2023 with a BBA in Finance and a minor in Computer
+          Science.
+        </p>
+      </section>
+
+      <section id="resume">
+        <h1 className="section-title">Resume</h1>
+        <p>*Import Resume Here*</p>
+      </section>
+
+      <section id="contact">
+        <hr></hr>
+        <h1 className="section-title">Contact Me</h1>
+        <p>Email: wnahley [at] uchicago [dot] edu </p> <br />
+        <a>Instagram</a>
+      </section>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

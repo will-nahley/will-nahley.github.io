@@ -1,0 +1,53 @@
+* {
+    background-color: #f0eeea;
+}
+
+.navbar {
+    font-family: "Inter";
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    margin: 2%;
+}
+
+.navbar-left{
+    flex:1;
+    font-size: 5vh;
+    
+}
+
+.navbar-right{
+    display:flex;
+    font-size: 1.5vh
+}
+
+.photo {
+    display: block;
+    border-style: solid;
+    border-width: 0.25rem;
+    border-color: rgb(191, 190, 189);
+    margin: 0 auto;
+    width: 15vw;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Inter";
+    font-size: 6vh;
+    font-weight: 200;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Inter";
+    font-size: 3vh;
+    font-weight: 200;
+}
+
+p {
+    text-align: center;
+    font-family: "Inter";
+    font-size: 1.5vh;
+    font-weight: 200;
+}
